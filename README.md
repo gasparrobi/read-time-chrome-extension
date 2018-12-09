@@ -1,6 +1,6 @@
 # read-time-chrome-extension
 
-display read time on various Hungarian news sites.
+display article read time on various Hungarian news sites.
 
 supported sites at the moment:
 - index.hu
